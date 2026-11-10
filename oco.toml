@@ -1,0 +1,11 @@
+# This repository's mark: a lens - the grand view of the linux-phone-oco family.
+schema = 1
+
+[project]
+id = "linux-phone-oco/lens"
+name = "Linux Phones: phones running Linux, as good as Android - and how close we are"
+title = "Linux Phones"
+kind = "lens"
+parent = "open-commons-observatory"
+
+[exports]
