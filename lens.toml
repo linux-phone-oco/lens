@@ -9,11 +9,31 @@ goal = "phones running Linux, as good as Android - and how close we are"
 [family]
 owners = ["linux-phone-oco"]
 
-[[view]]
+[[view]]   # the signature view: why, what, how and now, on one page
 id = "index"
+title = "Essence"
+kind = "essence"
+project = "linux-phone-oco/docs"
+subject = "linux-phones"
+
+[[view]]   # the idea, as the project wrote it
+id = "idea"
+title = "The idea"
+kind = "idea"
+project = "linux-phone-oco/docs"
+
+[[view]]
+id = "how-close"
 title = "How close we are"
 kind = "path"
 subject = "linux-phones"
+
+[[view]]   # the phone in the lab: its own essence
+id = "surya"
+title = "The phone in the lab"
+kind = "essence"
+project = "linux-phone-oco/surya-lab"
+subject = "xiaomi-surya"
 
 [[view]]
 id = "features"
