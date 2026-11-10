@@ -9,3 +9,5 @@ kind = "lens"
 parent = "open-commons-observatory"
 
 [exports]
+translations = "translations.json"
+session_log = "session_log.json"
