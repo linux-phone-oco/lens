@@ -8,8 +8,9 @@ title = "Linux Phones"
 kind = "lens"
 parent = "open-commons-observatory"
 
+# where each hand stands is read off the commits since 2026-11-17; the glimpses said here before are kept in
+# linux-phone-oco/docs (landings)
 [exports]
-glimpses = "linux-phone-oco/glimpses.json"
 translations = "translations.json"
 session_log = "session_log.json"
 
