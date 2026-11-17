@@ -80,6 +80,17 @@ id = "tests"
 title = "Tests"
 kind = "runs"
 
+[[view]]   # what was learned, with its sources - a feature's research, before what was decided
+id = "research"
+title = "Research"
+kind = "research"
+
+[[view]]   # the ideas the work rests on, and each decision with why and what was rejected
+id = "decisions"
+title = "Decisions"
+kind = "ideas"
+lead = "What the work rests on, and each decision: why, and what was rejected."
+
 [[view]]
 id = "backlog"
 title = "Backlog"
