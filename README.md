@@ -1,3 +1,5 @@
+> **Moved.** The Linux Phones lens now lives in [linux-phone-oco/docs](https://github.com/linux-phone-oco/docs) under `face/` (lens.toml, its translations and log), and the face is drawn from docs' own data with no observatory in between (docs decision 2026-11-17-the-face-from-docs-own-data). Nothing reads this repository any more; it is kept until the author decides to archive it.
+
 # The Linux Phones lens
 
 The grand view of the [linux-phone-oco](https://github.com/linux-phone-oco) family, declared as data
